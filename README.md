@@ -1,5 +1,6 @@
 # Digital Companion Server
 **⭕由于隐私问题，本仓库只开放服务端 `README` 及其 `SDK`！！！**
+
 这是一个基于 Spring Boot 3.4.0 和 Java 21 构建的后端服务项目，旨在提供数字伴侣/心理健康辅助相关的服务。项目集成了用户管理、抑郁评估、日记记录、音乐推荐以及基于 LLM (Ollama) 的 AI 对话功能。
 
 此外，本项目还包含一个配套的 TypeScript SDK (`Client/` 目录)，方便前端应用（Web/Node/Tauri）快速接入。
